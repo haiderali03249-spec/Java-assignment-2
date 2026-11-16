@@ -1,4 +1,4 @@
-# Assignment 2 — Stack and Queue (DS-3, Sections A & B)
+
 
 ## Question 1: Stack using an Array
 Implemented Push, Pop, Peek, Display, Stack Overflow, and Stack Underflow.
